@@ -75,7 +75,7 @@ img{
 }
  
 .localizacao{
-    background-image: url(https://scontent.fcfc2-1.fna.fbcdn.net/v/t39.30808-6/297417060_2288557207977163_195001879745279691_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=bcc5cc&_nc_eui2=AeGApwtWaCQpQUTR_0Z60EZrXzk_fjfGIadfOT9-N8Yhp2Rcmv1ffxwNfU8gUWJZ-n8iPB-V8hPD2uSsn0x2GFWu&_nc_ohc=PQM5lmMsXwMAX9U-bTn&_nc_ht=scontent.fcfc2-1.fna&oh=00_AfDfa7GpJIZFpRTiMPiHhMFgWhicB9e78l4O8tG1eMdLaQ&oe=65177533);
+    background-image: url(../img/localizacao.jpg);
     padding: 1vw;
     display: flex;
     align-items: center;
